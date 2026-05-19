@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Heavy Data Files (Không đẩy data thô lên GitHub)
+*.csv
+*.xlsx
+*.sql
+
+# Local IDE configurations
+.vscode/
+.idea/
+
+# Large Model weights if any
+*.pkl
