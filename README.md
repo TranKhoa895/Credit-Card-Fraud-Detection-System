@@ -109,7 +109,7 @@ Based on the mathematical weights visualized from the Random Forest model:
 3. **`category_grocery_pos` & `category_gas_transport`:** These two physical point-of-sale quẹt thẻ (card swiping) categories are heavily targeted by the AI, as criminals look for rapid asset liquidation at grocery and gas stations.
 4. **`is_night`:** Contributes significantly to sharpening the model's sensitivity during vulnerable late-night hours.
 
-## 🚀 6. INSTALLATION & SETUP GUIDE
+## 6. INSTALLATION & SETUP GUIDE
 
 ### Prerequisites
 * Clone Project: git clone https://github.com/TranKhoa895/Credit-Card-Fraud-Detection-System.git
